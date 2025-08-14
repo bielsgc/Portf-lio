@@ -111,7 +111,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }, 10);
     });
     
-    // === SISTEMA DE ABAS DOS PROJETOS ===
+    // === SISTEMA DE ABAS DAS HABILIDADES ===
     
     function switchTab(targetTab) {
         // Remove classe active de todos os botões e conteúdos
